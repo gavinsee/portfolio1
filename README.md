@@ -1,0 +1,3 @@
+# eHalls (eWilson) App
+
+This is a recent version of the eHalls (or eWilson) app that I've developed for Imperial College Halls of Residence (alongside my dev for the [web interface](https://hallsf.imperial.ac.uk/eHalls/)). I have uploaded it here purely for my portfolio. If you have any questions, please feel free to contact me at [gavinseegoolam@outlook.com](mailto:gavinseegoolam@outlook.com). This version of the app will be rolled out as eHalls on the app store. The older, "eWilson", app that I developed can be found on the [iOS app store](https://itunes.apple.com/gb/app/ewilson/id1286921644?mt=8) and on [the Android Play store](https://play.google.com/store/apps/details?id=com.wilson.ewilson&hl=en_GB).
